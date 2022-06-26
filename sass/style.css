@@ -24,6 +24,7 @@ body {
 
 .component--card {
   max-width: 600px;
+  background-color: white;
   width: 90%;
   border-radius: 1em;
   overflow: hidden;
