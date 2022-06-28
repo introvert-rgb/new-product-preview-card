@@ -7,7 +7,7 @@
     .component--card{
         flex-direction: column;
         width: 90%;
-        height: 95%;
+        // height: 95%;
         .card--imgholder{
            width: 100%; 
            height: 40%;
@@ -21,9 +21,13 @@
         .card--details{
             width: 100%;
             .card--details--upper{
+                .card--details--mainHead{
+                    font-size: 1.6rem;
+                }
                 .card--details--para{
                     font-size: 0.9rem;
-                    line-height:2;
+                    line-height: 1.5;
+                   
                 }
             }
       

@@ -150,7 +150,6 @@ body {
         -ms-flex-direction: column;
             flex-direction: column;
     width: 90%;
-    height: 95%;
   }
   .component--card .card--imgholder {
     width: 100%;
@@ -165,9 +164,12 @@ body {
   .component--card .card--details {
     width: 100%;
   }
+  .component--card .card--details .card--details--upper .card--details--mainHead {
+    font-size: 1.6rem;
+  }
   .component--card .card--details .card--details--upper .card--details--para {
     font-size: 0.9rem;
-    line-height: 2;
+    line-height: 1.5;
   }
 }
 /*# sourceMappingURL=style.css.map */
