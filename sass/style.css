@@ -150,6 +150,7 @@ body {
         -ms-flex-direction: column;
             flex-direction: column;
     width: 90%;
+    height: 100vh;
   }
   .component--card .card--imgholder {
     width: 100%;
