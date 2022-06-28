@@ -167,6 +167,7 @@ body {
   }
   .component--card .card--details .card--details--upper .card--details--para {
     font-size: 0.9rem;
+    line-height: 2;
   }
 }
 /*# sourceMappingURL=style.css.map */
